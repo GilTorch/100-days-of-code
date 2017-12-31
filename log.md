@@ -16,3 +16,12 @@
 **Thoughts:** After a couple of hours I didn't solve any bug but decided to use the MVC design pattern to solve it the next day.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+
+#Day 2: December 30, 2017
+
+**Today's Progress**: Implementing the MVC Design Pattern.
+
+**Thoughts:** I spent about 2 hours adapting my code from procedural to MVC Pattern. No commit have been done yet because there is still bugs in the code. the link still refer to an old version of the app.
+
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
