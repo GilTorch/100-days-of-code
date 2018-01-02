@@ -25,3 +25,19 @@
 **Thoughts:** I spent about 2 hours adapting my code from procedural to MVC Pattern. No commit have been done yet because there is still bugs in the code. the link still refer to an old version of the app.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+#Day 3: December 31, 2017
+
+**Today's Progress**: Implementing the MVC Design Pattern.
+
+**Thoughts:** No thougths.
+
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+#Day 4: December 31, 2017
+
+**Today's Progress**: Implementing the MVC Design Pattern.
+
+**Thoughts:** create model,controller and vue in separate files. I resolve the bug of navigation_map
+
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
