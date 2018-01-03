@@ -62,6 +62,6 @@
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
-**Thoughts:**
+**Thoughts:** 2 Player Mode is working pretty fine.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
