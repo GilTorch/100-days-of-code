@@ -41,3 +41,27 @@
 **Thoughts:** create model,controller and vue in separate files. I resolve the bug of navigation_map
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+#Day 5:December 1st,2017
+
+**Today's Progress**: Implementing the MVC Design Pattern.
+
+**Thoughts:**
+
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+#Day 6:December 2,2017
+
+**Today's Progress**: Implementing the MVC Design Pattern.
+
+**Thoughts:**
+
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+#Day 7:December 3,2017
+
+**Today's Progress**: Implementing the MVC Design Pattern.
+
+**Thoughts:**
+
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
