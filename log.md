@@ -50,7 +50,7 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 7:December 3,2017
+#Day 7:December 4,2017
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
