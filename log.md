@@ -18,7 +18,7 @@
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
 
-#Day 3: December 30, 2017
+#Day 3: December 31, 2017
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
@@ -26,7 +26,7 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 4: December 31, 2017
+#Day 4: December 1, 2017
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
@@ -34,7 +34,7 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 5: December 1, 2017
+#Day 5: December 2, 2017
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
@@ -42,11 +42,11 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 6:December 2,2017
+#Day 6:December 3,2017
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
-**Thoughts:**
+**Thoughts:** 2 Player Mode is working pretty fine.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
@@ -54,6 +54,6 @@
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
-**Thoughts:** 2 Player Mode is working pretty fine.
+**Thoughts:** 2 Player Mode and AI Mode works fine! A few updates can be done though.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
