@@ -70,8 +70,12 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 10:January 10,2017
-
+#Day 10:January 11,2017
 **Today's Progress**: Hightlight letters when player wins.
+**Thoughts**: Because I program everyday I become smarter at solving problem
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+#Day 10:January 12,2017
+**Today's Progress**: Added score and solved bugs.
 **Thoughts**: Because I program everyday I become smarter at solving problem
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
