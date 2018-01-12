@@ -69,3 +69,9 @@
 **Today's Progress**: Resolving bugs and working with the design of the Tic Tac Toe App.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+
+#Day 10:January 10,2017
+
+**Today's Progress**: Hightlight letters when player wins.
+**Thoughts**: Because I program everyday I become smarter at solving problem
+**Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
