@@ -79,3 +79,5 @@
 **Today's Progress**: Added score and solved bugs.
 **Thoughts**: Because I program everyday I become smarter at solving problem
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
+#Day 12:January 24,2017
+**Today's Progress**: Solved 7 challenges in freecodecamp in the NodeJS section
