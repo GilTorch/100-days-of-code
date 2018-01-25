@@ -81,3 +81,7 @@
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 #Day 12:January 24,2017
 **Today's Progress**: Solved 7 challenges in freecodecamp in the NodeJS section
+#Day 13:January 24,2017
+**Today's Progress**: Working on Simon Game project
+**Thoughts**:After battling to finaly been able to draw the Simon Game. I think it would be wiser to use a library
+**Link to work:**[Simon Game](https://www.github.com/GilTorch/simon-game)
