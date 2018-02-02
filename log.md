@@ -26,7 +26,7 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 4: January 1, 2017
+#Day 4: January 1, 2018
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
@@ -34,7 +34,7 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 5: January 2, 2017
+#Day 5: January 2, 2018
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
@@ -42,7 +42,7 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 6:January 3,2017
+#Day 6:January 3,2018
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
@@ -50,7 +50,7 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 7:January 4,2017
+#Day 7:January 4,2018
 
 **Today's Progress**: Implementing the MVC Design Pattern.
 
@@ -58,30 +58,44 @@
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 8:January 9,2017
+#Day 8:January 9,2018
 
 **Today's Progress**: Resolving bugs.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 9:January 10,2017
+#Day 9:January 10,2018
 
 **Today's Progress**: Resolving bugs and working with the design of the Tic Tac Toe App.
 
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 10:January 11,2017
+#Day 10:January 11,2018
 **Today's Progress**: Hightlight letters when player wins.
 **Thoughts**: Because I program everyday I become smarter at solving problem
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 
-#Day 11:January 12,2017
+#Day 11:January 12,2018
 **Today's Progress**: Added score and solved bugs.
 **Thoughts**: Because I program everyday I become smarter at solving problem
 **Link to work:** [Tic Tac Toe App](http://www.github.com/GilTorch/tic-tac-toe)
 #Day 12:January 24,2017
 **Today's Progress**: Solved 7 challenges in freecodecamp in the NodeJS section
-#Day 13:January 24,2017
+#Day 13:January 24,2018
 **Today's Progress**: Working on Simon Game project
 **Thoughts**:After battling to finaly been able to draw the Simon Game. I think it would be wiser to use a library
 **Link to work:**[Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 1: 1 February, 2018
+
+**Today's Progress**: designed a simon game that look better.
+
+**Thoughts:** I didn't expect to acheive this results using strokes but I did!
+
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 2: 2 February, 2018
+
+**Today's Progress**: Implementing MVC pattern. Added text successfully
+
+**Thoughts:** Vue function works fine and I didn't even struggle!
+
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
