@@ -99,3 +99,10 @@
 **Thoughts:** Vue function works fine and I didn't even struggle!
 
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 3: 3 February, 2018
+**Today's Progress**: power button drawed properly. led button added over the strict button.
+all text titles added. Game title added.
+
+**Thoughts:** The design is finished now. Now it's time to code the game logic!
+
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
