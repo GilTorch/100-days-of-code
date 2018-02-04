@@ -106,3 +106,8 @@ all text titles added. Game title added.
 **Thoughts:** The design is finished now. Now it's time to code the game logic!
 
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 4: 4 February, 2018
+**Today's Progress**: Different listeners created and sound added
+**Thoughts:** great work!
+
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
