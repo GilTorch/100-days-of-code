@@ -111,3 +111,8 @@ all text titles added. Game title added.
 **Thoughts:** great work!
 
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 5: 5 February, 2018
+**Today's Progress**: Worked hard on app logic. removed redundancy in the view
+**Thoughts:** great work!
+
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
