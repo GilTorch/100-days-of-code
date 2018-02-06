@@ -120,4 +120,4 @@ all text titles added. Game title added.
 **Today's Progress**: Refactored the code of Haitian Quotes project.
 **Thoughts:** great work!
 
-**Link to work:**  [Simon Game](https://www.github.com/GilTorch/haitian-quotes)
+**Link to work:**  [Haitian Quotes APP](https://www.github.com/GilTorch/haitian-quotes)
