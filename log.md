@@ -121,3 +121,7 @@ all text titles added. Game title added.
 **Thoughts:** great work!
 
 **Link to work:**  [Haitian Quotes APP](https://www.github.com/GilTorch/haitian-quotes)
+
+#Day 7: 7 February, 2018
+**Today's Progress**: Created a to do list node js api with node express and mysql.
+**Thoughts:** 
