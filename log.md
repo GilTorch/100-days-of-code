@@ -124,4 +124,10 @@ all text titles added. Game title added.
 
 #Day 7: 7 February, 2018
 **Today's Progress**: Created a to do list node js api with node express and mysql.
-**Thoughts:** 
+**Thoughts**:Experimental work
+**Link to work**:[To do list api](https://github.com/GilTorch/to-do-list-app-with-my-sql.git)
+#Day 8: 8 February, 2018
+**Today's Progress**: Worked on interactions and changed the design. added animation on power button
+**Thoughts:** great work!
+
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
