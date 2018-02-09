@@ -131,3 +131,14 @@ all text titles added. Game title added.
 **Thoughts:** great work!
 
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+
+#Day 9: 9 February, 2018
+**Today's Progress**: -Mettre une animation sur les bouton start et strict
+  -Allumer et Eteindre le led strict respectivement quand
+	strict est on et quand strict est off
+  -donner des couleurs plus pales au quatres boutons principaux
+  -donner des couleurs vives lorsque les boutons sont presses 
+	et revenir aux couleurs pales lorsque les boutons sont relaches
+**Thoughts:** one more interaction left!
+
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
