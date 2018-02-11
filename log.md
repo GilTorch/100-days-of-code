@@ -143,4 +143,7 @@ all text titles added. Game title added.
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
 #Day 10: 10 February, 2018
 **Today's Progress**:Solved some exercices in the book "Eloquent Javascript"
-**Thoughts:** Was a bit tired but got through the challenge anyway.
+**Thoughts:** Was a bit tired but got through the challenge anyway
+#Day 11: 11 February, 2018
+**Today's Progress**:Solved algorithm at freecodecamp.com
+**Thoughts:** Was a bit busy.
