@@ -140,5 +140,7 @@ all text titles added. Game title added.
   -donner des couleurs vives lorsque les boutons sont presses 
 	et revenir aux couleurs pales lorsque les boutons sont relaches
 **Thoughts:** one more interaction left!
-
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 10: 10 February, 2018
+**Today's Progress**:Solved some exercices in the book "Eloquent Javascript"
+**Thoughts:** Was a bit tired but got through the challenge anyway.
