@@ -147,3 +147,6 @@ all text titles added. Game title added.
 #Day 11: 11 February, 2018
 **Today's Progress**:Solved algorithm at freecodecamp.com
 **Thoughts:** Was a bit busy.
+#Day 12: 12 February, 2018
+**Today's Progress**:Solved algorithm at freecodecamp.com
+**Thoughts:** Was a bit busy.
