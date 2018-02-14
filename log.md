@@ -150,3 +150,9 @@ all text titles added. Game title added.
 #Day 12: 12 February, 2018
 **Today's Progress**:Solved algorithm at freecodecamp.com
 **Thoughts:** Was a bit busy.
+#Day 13: 13 February, 2018
+**Today's Progress**:Added sound properly with Web Audio API
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 14: 14 February, 2018
+**Today's Progress**:Bug Correction in the Simon Game and worked on algorithm.
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
