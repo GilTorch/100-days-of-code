@@ -156,3 +156,12 @@ all text titles added. Game title added.
 #Day 14: 14 February, 2018
 **Today's Progress**:Bug Correction in the Simon Game and worked on algorithm.
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+
+#Day 15: 15 February, 2018
+**Today's Progress**:Added Controller and worked on app logic.
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+
+#Day 16: 16 February, 2018
+**Today's Progress**:Logic behind the power button added. App can play a random sound for the user while animating the button
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+
