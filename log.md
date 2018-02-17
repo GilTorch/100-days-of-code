@@ -165,3 +165,7 @@ all text titles added. Game title added.
 **Today's Progress**:Logic behind the power button added. App can play a random sound for the user while animating the button
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
 
+#Day 16: 16 February, 2018
+**Today's Progress**:divided file in 3 and added even more logic to model.
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+
