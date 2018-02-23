@@ -165,7 +165,20 @@ all text titles added. Game title added.
 **Today's Progress**:Logic behind the power button added. App can play a random sound for the user while animating the button
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
 
-#Day 16: 16 February, 2018
+#Day 17: 17February, 2018
 **Today's Progress**:divided file in 3 and added even more logic to model.
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
-
+#Day 18:18 February 2018
+**Today's Progress**:Added code that ended up bugging.
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 19:19 February 2018
+**Today's Progress**:React JS Crash Course
+#Day 20:20 February 2018
+**Today's Progress**:Tried to solve bugs but couldn't
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 21:21 February 2018
+**Today's Progress**:Removed confusion in the Vue.
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 22:22 February 2018
+**Today's Progress**:Created separate functions to handle the gameplay.
+**Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
