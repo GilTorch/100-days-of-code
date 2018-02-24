@@ -182,3 +182,5 @@ all text titles added. Game title added.
 #Day 22:22 February 2018
 **Today's Progress**:Created separate functions to handle the gameplay.
 **Link to work:**  [Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 23:23 February 2018
+**Today's Progress**:Solved challenges at codewar.
