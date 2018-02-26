@@ -186,3 +186,5 @@ all text titles added. Game title added.
 **Today's Progress**:Solved challenges at codewar.
 #Day 24:24 February 2018
 **Today's Progress**:Solved challenges at codewar.
+#Day 25:25 February 2018
+**Today's Progress**:Solved challenge at codewar.
