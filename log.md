@@ -189,4 +189,6 @@ all text titles added. Game title added.
 #Day 25:25 February 2018
 **Today's Progress**:Solved challenge at codewar.
 #Day 26:26 February 2018
-**Today's Progress**:Solved challenge at freecodecampr.
+**Today's Progress**:Solved challenge at freecodecamp.
+#Day 27:27 February 2018
+**Today's Progress**:Solved react challenges at beta.freecodecamp.
