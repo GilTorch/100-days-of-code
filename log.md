@@ -192,3 +192,5 @@ all text titles added. Game title added.
 **Today's Progress**:Solved challenge at freecodecamp.
 #Day 27:27 February 2018
 **Today's Progress**:Solved react challenges at beta.freecodecamp.
+#Day 28:28 February 2018
+**Today's Progress**:Solved even react challenges at beta.freecodecamp.
