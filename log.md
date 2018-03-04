@@ -197,4 +197,10 @@ all text titles added. Game title added.
 #Day 29:1 March 2018
 **Today's Progress**:Reviewed react challenges at beta.freecodecamp.
 #Day 30:2 March 2018
-**Today's Progress**:Reviewed react challenges at beta.freecodecamp.
+**Today's Progress**:Learned D3 on beta.freecodecamp.
+**Toughts**:My mind is preocupied with other stuff so I only work on challenges. After this week I'll have to return to the Simon Game.
+#Day 31:3 March 2018
+**Today's Progress**:Player can now play up to 5 steps in the Simon Game.
+**Toughts**:Was very hard to focus and correct that bug. But After refactoring the code
+multiple times it worked partially!
+**Link to work**:[Simon Game](https://www.github.com/GilTorch/simon-game)
