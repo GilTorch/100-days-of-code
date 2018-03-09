@@ -204,3 +204,28 @@ all text titles added. Game title added.
 **Toughts**:Was very hard to focus and correct that bug. But After refactoring the code
 multiple times it worked partially!
 **Link to work**:[Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 32:4 March 2018
+**Today's Progress**:Added a behavior and a sound to indicate when the user looses.
+**Toughts**:
+**Link to work**:[Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 33:5 March 2018
+**Today's Progress**:Added "step" to control the max step for the game. removed
+event listener when random buttons are being played. Added event listeners when it's 
+users time to play.
+**Toughts**: Was pretty fun. It was hard in the beginning but through perseverance I did it.
+**Link to work**:[Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 34:6 March 2018
+**Today's Progress**:Finished the Javascript implementation of 1980's Simon Game and 
+begun refactoring the twitch tv api project.
+**Toughts**: Was pretty fun. It was hard in the beginning but through perseverance I did it.
+**Link to work**:[Simon Game](https://www.github.com/GilTorch/simon-game)
+#Day 35:7 March 2018
+**Today's Progress**:finished refactoring the twitch tv project. Added a downlad animation also.
+**Toughts**:"No special thoughts"
+**Link to work**:[Simon Game](https://www.github.com/GilTorch/twitch-tv)
+#Day 36:8 March 2018
+**Today's Progress**:React and ES6 challenges on beta.freecodecamp.com
+**Toughts**:"No special thoughts"
+#Day 37:9 March 2018
+**Today's Progress**:Finished ES6 challenges on beta.freecodecamp.com
+**Toughts**:"No special thoughts";
