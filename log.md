@@ -229,3 +229,6 @@ begun refactoring the twitch tv api project.
 #Day 37:9 March 2018
 **Today's Progress**:Finished ES6 challenges on beta.freecodecamp.com
 **Toughts**:"No special thoughts";
+#Day 38:10 March 2018
+**Today's Progress**: Tackled some React Challenges and React VR
+**Toughts**:"No special thoughts";
