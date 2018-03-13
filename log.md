@@ -233,5 +233,5 @@ begun refactoring the twitch tv api project.
 **Today's Progress**: Tackled some React Challenges and React VR
 **Toughts**:"No special thoughts";
 #Day 39:12 March 2018
-**Today's Progress**: Tackled some React Challenges and React VR
+**Today's Progress**: Tackled some React Challenges 
 **Toughts**:"No special thoughts";
