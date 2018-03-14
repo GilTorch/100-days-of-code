@@ -238,3 +238,6 @@ begun refactoring the twitch tv api project.
 #Day 40:13 March 2018
 **Today's Progress**: Finished with React Challenges 
 **Toughts**:"No special thoughts";
+#Day 41:14 March 2018
+**Today's Progress**: 4 Challenges left to finished SASS 
+**Toughts**:"No special thoughts";
