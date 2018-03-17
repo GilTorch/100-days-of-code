@@ -241,3 +241,9 @@ begun refactoring the twitch tv api project.
 #Day 41:14 March 2018
 **Today's Progress**: 4 Challenges left to finished SASS 
 **Toughts**:"No special thoughts";
+#Day 42:15 March 2018
+**Today's Progress**: Finished Sass Challenges and worked on my personal Website Portfolio. 
+**Toughts**:"No special thoughts";
+#Day 43:16 March 2018
+**Today's Progress**: React Native Basics. 
+**Toughts**:"No special thoughts";
