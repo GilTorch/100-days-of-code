@@ -247,3 +247,6 @@ begun refactoring the twitch tv api project.
 #Day 43:16 March 2018
 **Today's Progress**: React Native Basics. 
 **Toughts**:"No special thoughts";
+#Day 44:17 March 2018
+**Today's Progress**: Contact Form completed using nodemailer. 
+**Toughts**:"No special thoughts";
