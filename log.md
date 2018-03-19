@@ -250,3 +250,6 @@ begun refactoring the twitch tv api project.
 #Day 44:17 March 2018
 **Today's Progress**: Contact Form completed using nodemailer. 
 **Toughts**:"No special thoughts";
+#Day 45:18 March 2018
+**Today's Progress**: React Native Meteo App on grafikart. 
+**Toughts**:"No special thoughts";
